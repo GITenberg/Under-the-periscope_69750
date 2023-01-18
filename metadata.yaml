@@ -1,0 +1,27 @@
+_repo: Under-the-periscope_69750
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Mark
+    gutenberg_agent_id: '55400'
+    url: http://www.gutenberg.org/2009/agents/55400
+description: ''
+gutenberg_issued: '2023-01-09'
+identifiers:
+  gutenberg: '69750'
+language: en
+pgterms:marc904: https://archive.org/details/underperiscope00benn
+pgterms:marc905: 20200404050133bennett
+pgterms:marc906: '1919'
+pgterms:marc907: GB
+production_note: MWS, Charlie Howard, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: 'United Kingdom: W. Collins Sons & Co. Ltd.,1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Under the periscope
+url: http://www.gutenberg.org/ebooks/69750
