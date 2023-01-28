@@ -1,11 +1,16 @@
 _repo: Under-the-periscope_69750
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69750-h/images/cover.jpg
 creator:
   author:
     agent_name: Bennett, Mark
     gutenberg_agent_id: '55400'
     url: http://www.gutenberg.org/2009/agents/55400
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69750#Under-the-periscope
 gutenberg_issued: '2023-01-09'
 identifiers:
   gutenberg: '69750'
